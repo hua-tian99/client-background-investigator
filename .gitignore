@@ -1,0 +1,15 @@
+node_modules/
+build/
+dist/
+coverage/
+release/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Local settings (Claude Code, IDE, OS)
+.claude/
+.idea/
+.vscode/
+Thumbs.db
